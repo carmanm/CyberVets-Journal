@@ -7,7 +7,6 @@ Training covers ethical hacking in offensive security, network administration an
 more.  The program is designed to develop well-rounded cybersecurity professionals through on-the-job training in the government healthcare sector.  
 
 <li data-view-component="true" class="d-inline-flex">
-<a id="code-tab" href="/carmanm/CyberVets-Journal" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /carmanm/CyberVets-Journal" data-pjax="#repo-content-pjax-container" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">                 
+<a id="code-tab" href="github.com/carmanm/CyberVets-Journal">                 
 <span data-content="Code">Code</span>
-<span id="code-repo-tab-count" data-pjax-replace="" title="Not available" data-view-component="true" class="Counter"></span>
 </a></li>
