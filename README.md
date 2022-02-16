@@ -12,11 +12,11 @@ more.  The program is designed to develop well-rounded cybersecurity professiona
 </a></li>
 
 <li data-view-component="true" class="d-inline-flex">
-<a id="code-tab" href="https://github.com/carmanm/CyberVets-Journal">                 
+<a id="code-tab" href="https://github.com/carmanm/CyberVets-Journal/projects?type=beta">                 
 <span data-content="Projects">Projects</span>
 </a></li>
 
 <li data-view-component="true" class="d-inline-flex">
-<a id="code-tab" href="https://github.com/carmanm/CyberVets-Journal">                 
+<a id="code-tab" href="https://github.com/carmanm/CyberVets-Journal/wiki">                 
 <span data-content="Wiki">Wiki</span>
 </a></li>
