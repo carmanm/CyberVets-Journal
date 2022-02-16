@@ -15,14 +15,14 @@ The CyberVets internship is an intensive 6-month cybersecurity military transiti
 _____________________________________________________________________________________________________________________________________________________________________
 
 <h3> 
-        <p align="left">&#10149;  View my resume, certificates, and credentials</p>   
+        <p align="left">&#10149;  Resume, certificates, and credentials</p>   
         <p align="right"><a " href="https://github.com/carmanm/CyberVets-Journal">&#187; Code</a></p>    
 </h3>
 
 _______________________________________________________________________________________________________________________________________________________
           
 <h3> 
-        <p align="left">&#10149;  See training events attended and program activity</p>   
+        <p align="left">&#10149;  Program activity and training events attended</p>   
         <p align="right"><a " href="https://github.com/carmanm/CyberVets-Journal/projects?type=beta">&#187; Projects</a></p>    
 </h3>
 
@@ -30,7 +30,7 @@ ________________________________________________________________________________
 
 
 <h3> 
-        <p align="left">&#10149;  See mission write-ups and personally developed standard operating procedures</p>   
+        <p align="left">&#10149;  Mission write-ups and personally developed standard operating procedures</p>   
         <p align="right"><a " href="https://github.com/carmanm/CyberVets-Journal/wiki">&#187; Wiki</a></p>    
 </h3>
 
