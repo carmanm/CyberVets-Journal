@@ -23,7 +23,7 @@ ________________________________________________________________________________
           
 <h3> 
         <p align="left">&#10149;  Program activity and training events attended</p>   
-        <p align="right"><a " href="https://github.com/carmanm/CyberVets-Journal/projects?type=beta">&#187; Projects</a></p>    
+        <p align="right"><a " href="https://github.com/users/carmanm/projects/5/views/4">&#187; Projects</a></p>    
 </h3>
 
 _______________________________________________________________________________________________________________________________________________________
