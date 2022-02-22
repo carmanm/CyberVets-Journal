@@ -22,8 +22,9 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________________________________
           
 <h3> 
-        <p align="left">&#10149;  Program activity and training events attended</p>   
-        <p align="right"><a " href="https://github.com/users/carmanm/projects/5/views/4">&#187; Training and Projects</a></p>    
+        <p align="left">&#10149;  Program activity and details on project write-ups</p>   
+        <p align="right"><a " href="https://github.com/users/carmanm/projects/5/views/4">&#187; Training Schedule</a></p> 
+        <p align="right"><a " href="https://github.com/users/carmanm/projects/8/views/1?layout=board">&#187; Project Write-Ups</a></p> 
 </h3>
 
 _______________________________________________________________________________________________________________________________________________________
