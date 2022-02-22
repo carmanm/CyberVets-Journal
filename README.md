@@ -16,14 +16,14 @@ ________________________________________________________________________________
 
 <h3> 
         <p align="left">&#10149;  Resume, certificates, and credentials</p>   
-        <p align="right"><a " href="https://github.com/carmanm/CyberVets-Journal">&#187; Code</a></p>    
+        <p align="right"><a " href="https://github.com/carmanm/CyberVets-Journal">&#187; Home</a></p>    
 </h3>
 
 _______________________________________________________________________________________________________________________________________________________
           
 <h3> 
         <p align="left">&#10149;  Program activity and training events attended</p>   
-        <p align="right"><a " href="https://github.com/users/carmanm/projects/5/views/4">&#187; Projects</a></p>    
+        <p align="right"><a " href="https://github.com/users/carmanm/projects/5/views/4">&#187; Training and Projects</a></p>    
 </h3>
 
 _______________________________________________________________________________________________________________________________________________________
