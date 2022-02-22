@@ -35,7 +35,16 @@ ________________________________________________________________________________
         <p align="right"><a " href="https://github.com/carmanm/CyberVets-Journal/wiki">&#187; Wiki</a></p>    
 </h3>
 
-_______________________________________________________________________________________________________________________________________________________
 
+
+***
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/18491622/153533479-f7b4bd33-2c3d-4cf2-adbc-8d26c6b031f6.png" alt="CMS">
+
+<p text-align="center">Custom logo by APINSTE</p>
+</div>
+
+***
 
     
