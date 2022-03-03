@@ -10,7 +10,7 @@ ________________________________________________________________________________
 <h3> 
         <p align="left">&#10149;  Program activity and details on project write-up board</p>   
         <p align="left"><a " href="https://github.com/users/carmanm/projects/5/views/4">&#187; CMS Training Summary</a></p> 
-        <p align="left"><a " href="https://github.com/users/carmanm/projects/8/views/1?layout=board">&#187; CMS Project Write-Up Board</a></p> 
+        <p align="left"><a " href="https://github.com/users/carmanm/projects/8/views/1?layout=board">&#187; CMS Projects</a></p> 
 </h3>
 
 _______________________________________________________________________________________________________________________________________________________
