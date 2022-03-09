@@ -13,16 +13,6 @@ ________________________________________________________________________________
         <p align="left"><a " href="https://github.com/users/carmanm/projects/8/views/1?layout=board">&#187; CMS Projects</a></p> 
 </h3>
 
-_______________________________________________________________________________________________________________________________________________________
-
-
-<h3> 
-        <p align="left">&#10149;  Project write-ups and personally developed standard operating procedures</p>   
-        <p align="left"><a " href="https://github.com/carmanm/CyberVets-Journal/wiki">&#187; Wiki</a></p>    
-</h3>
-
-
-
 ***
 <div align="center">
 
